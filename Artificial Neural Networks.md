@@ -1,5 +1,5 @@
 ### `Read and catch up on content:`
-- [Gradient Descent article](https://github.com/MoinDalvs/Gradient_Descent_For_beginners/blob/main/README.md) :books:
+- [Gradient Descent article](https://github.com/SAIFIANS/Gradient_Descent/blob/main/Gradient%20Descent.md) :books:
 
 ## 0.1 Table of Contents<a class="anchor" id="0.1"></a>
 1. [Let's talk about Neural Networks.](#1)
